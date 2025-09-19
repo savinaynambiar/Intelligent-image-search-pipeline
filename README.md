@@ -1,4 +1,4 @@
-# Vidrush - AI Image Search Pipeline
+# AI Image Search Pipeline
 
 This project is a functional, end-to-end pipeline built to solve the Vidrush coding interview task. It takes a highly specific, complex text description and finds the best possible existing image matches from the web, even when a perfect match is unlikely to exist.
 
